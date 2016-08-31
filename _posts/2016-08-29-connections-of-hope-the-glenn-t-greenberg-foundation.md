@@ -5,15 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Connections of Hope: The Glenn T. Greenberg Foundation'
-datePublished: '2016-08-29T16:31:14.965Z'
-dateModified: '2016-08-29T16:30:53.734Z'
+datePublished: '2016-08-29T19:34:44.255Z'
+dateModified: '2016-08-29T19:34:28.587Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-29-connections-of-hope-the-glenn-t-greenberg-foundation.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: connections-of-hope-the-glenn-t-greenberg-foundation/index.html
 _type: Article
 
