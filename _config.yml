@@ -1,19 +1,4 @@
-name: Connections of Hope
-favicon: null
-layout_spectrum: 0.2919045148883015
 typography_spectrum: 0.18196081230416894
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.6545823225751519
   saturation: 0.07965900329872966
   rhythmicContrast: 0.2854336560703814
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2919045148883015
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Connections of Hope
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+description: The Glenn T. Greenberg Foundation
 purpose: []
