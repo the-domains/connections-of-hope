@@ -5,27 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Connections of Hope: The Glenn T. Greenberg Foundation'
-datePublished: '2016-08-29T19:34:44.255Z'
-dateModified: '2016-08-29T19:34:28.587Z'
+datePublished: '2016-08-29T23:16:08.088Z'
+dateModified: '2016-08-29T23:16:04.372Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-08-29-connections-of-hope-the-glenn-t-greenberg-foundation.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: connections-of-hope-the-glenn-t-greenberg-foundation/index.html
 _type: Article
 
 ---
 **Connections of Hope**: _**The Glenn T. Greenberg Foundation**_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/81bc4489-f2c1-4093-8a1f-e516974166f7.jpg)
 
-My Story
+**[My Story][0]**
 
 March 23, 2013 started out like any other day. I left my
 house to do errands like I'd done so many Saturdays before that and while I was
@@ -134,3 +129,8 @@ Grief is the price we pay for love. Love is beautiful. Love
 never dies. There is hope. You will find it here. 
 
 -Rachel G.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c10d590-d1c0-4ab7-af27-8580e74f3ea2.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93c2a868-b65b-4f5c-a8c4-83b9185edef1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7471a646-300d-479f-9b38-5509efd5c207.jpg)
+
+[0]: null
